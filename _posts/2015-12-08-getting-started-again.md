@@ -2,7 +2,6 @@
 published: true
 ---
 
-
 {% include JB/setup %}
 ## A New Post
 
